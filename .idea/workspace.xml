@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88bd1ef6-3c93-4ae0-a823-6fb73230d4cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Neurone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Couche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Neurone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reseau.java" afterDir="false" />
+    <list default="true" id="88bd1ef6-3c93-4ae0-a823-6fb73230d4cc" name="Changes" comment="tp neurone">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Couche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Couche.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nabilou-Anoir/Neurone.git",
+    "accountId": "1ba09cff-38ae-460d-b1d6-e931a53bcbf7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -51,6 +49,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/anabi/IdeaProjects/Neurone/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,12 +69,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729233425761</updated>
-      <workItem from="1729233426744" duration="14208000" />
+      <workItem from="1729233426744" duration="20247000" />
     </task>
+    <task id="LOCAL-00001" summary="tp neurone">
+      <option name="closed" value="true" />
+      <created>1729253247849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729253247849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tp neurone" />
+    <option name="LAST_COMMIT_MESSAGE" value="tp neurone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
